@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: payzah\n"
+"POT-Creation-Date: 2021-02-15 10:09-0800\n"
+"PO-Revision-Date: 2021-02-15 10:17-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: includes/class-payzah-woocommerce-payment-.php\n"
+"X-Poedit-SearchPath-2: includes/functions.php\n"
+"X-Poedit-SearchPath-3: includes/hooks.php\n"
+"X-Poedit-SearchPath-4: payzah.php\n"
+
+#: includes/class-payzah-woocommerce-payment-.php:11
+msgid "Payzah Payment Gateway"
+msgstr "بوابة الدفع Payzah"
+
+#: includes/class-payzah-woocommerce-payment-.php:12
+msgid ""
+"Pay with payzah that supports KNET & Credit Cards Transactions (VISA & "
+"MasterCard)"
+msgstr ""
+"ادفع باستخدام payzah الذي يدعم معاملات بطاقات الائتمان و KNET (VISA و "
+"MasterCard)"
+
+#: includes/class-payzah-woocommerce-payment-.php:23
+#: includes/class-payzah-woocommerce-payment-.php:29
+msgid "KNET"
+msgstr "كي نت"
+
+#: includes/class-payzah-woocommerce-payment-.php:24
+#: includes/class-payzah-woocommerce-payment-.php:34
+msgid "Credit Card"
+msgstr "بطاقة ائتمان"
+
+#: includes/class-payzah-woocommerce-payment-.php:41
+#: includes/class-payzah-woocommerce-payment-.php:78
+msgid "Payzah"
+msgstr "Payzah"
+
+#: includes/class-payzah-woocommerce-payment-.php:69
+msgid "Enable/Disable"
+msgstr "مفعل وغير مفعل"
+
+#: includes/class-payzah-woocommerce-payment-.php:71
+msgid "Enable Payzah Payment Module."
+msgstr "تفعيل وحدة دفع Payzah."
+
+#: includes/class-payzah-woocommerce-payment-.php:76
+msgid "Title:"
+msgstr "لقب:"
+
+#: includes/class-payzah-woocommerce-payment-.php:79
+msgid "This controls the title which the user sees during checkout."
+msgstr "هذا يتحكم في العنوان الذي يراه المستخدم أثناء الخروج."
+
+#: includes/class-payzah-woocommerce-payment-.php:83
+msgid "Description:"
+msgstr "وصف:"
+
+#: includes/class-payzah-woocommerce-payment-.php:85
+msgid "pay via Payzah; you can pay securely with your debit or credit card."
+msgstr ""
+"الدفع عبر Payzah ؛ يمكنك الدفع بأمان باستخدام بطاقة الخصم أو الائتمان "
+"الخاصة بك."
+
+#: includes/class-payzah-woocommerce-payment-.php:86
+msgid "This controls the description which the user sees during checkout."
+msgstr "هذا يتحكم في الوصف الذي يراه المستخدم أثناء الخروج."
+
+#: includes/class-payzah-woocommerce-payment-.php:90
+msgid "Private key"
+msgstr "مفتاح سري"
+
+#: includes/class-payzah-woocommerce-payment-.php:93
+msgid "Get your Private key from Payzah."
+msgstr "احصل على مفتاحك الخاص من Payzah."
+
+#: includes/class-payzah-woocommerce-payment-.php:98
+msgid "TEST Mode"
+msgstr "وضع الاختبار"
+
+#: includes/class-payzah-woocommerce-payment-.php:100
+msgid "Enable Payzah TEST Transactions."
+msgstr "تفعيل معاملات Payzah TEST."
+
+#: includes/class-payzah-woocommerce-payment-.php:102
+msgid "Tick to run TEST Transaction on the Payzah platform"
+msgstr "ضع علامة لتشغيل TEST Transaction على منصة Payzah"
+
+#: includes/class-payzah-woocommerce-payment-.php:106
+msgid "Enable Knet"
+msgstr "تفعيل Knet"
+
+#: includes/class-payzah-woocommerce-payment-.php:108
+msgid "Enable Knet Option."
+msgstr "تفعيل خيار Knet."
+
+#: includes/class-payzah-woocommerce-payment-.php:110
+msgid "Tick to enable knet option."
+msgstr "ضع علامة لتمكين خيار knet."
+
+#: includes/class-payzah-woocommerce-payment-.php:114
+msgid "Enable Credit Card"
+msgstr "تفعيل بطاقة الائتمان"
+
+#: includes/class-payzah-woocommerce-payment-.php:116
+msgid "Enable Credit Card Option."
+msgstr "تفعيل خيار بطاقة الائتمان."
+
+#: includes/class-payzah-woocommerce-payment-.php:118
+msgid "Tick to enable credit card option."
+msgstr "ضع علامة لتمكين خيار بطاقة الائتمان."
+
+#: includes/class-payzah-woocommerce-payment-.php:137
+msgid "Payment Information"
+msgstr "معلومات الدفع"
+
+#: includes/functions.php:52 includes/functions.php:72
+#: includes/functions.php:97
+msgid "Payment type"
+msgstr "نوع الدفع"
+
+#: includes/functions.php:77
+msgid "Payment status"
+msgstr "حالة السداد"
+
+#: includes/functions.php:106
+msgid "Get Private Key"
+msgstr "احصل على المفتاح الخاص"
+
+#: includes/functions.php:325
+msgid "Tracking ID:"
+msgstr "معرف التتبع:"

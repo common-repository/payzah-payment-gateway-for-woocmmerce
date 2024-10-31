@@ -1,0 +1,24 @@
+ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details {
+    margin-bottom: 0px;
+}
+.payment-inner.payment-div {
+    background: #efefef;
+    padding: 20px;
+    border-bottom: 1px solid rgba(100,100,100,0.1);
+    display: flex;
+}
+.paymentimg {
+    height: 55px!important;
+    text-align: right;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+label[for="payment_method_paydo_checkout"] {
+    display: none!important;
+}
+
+li.wc_payment_method.payment_method_payzah img {
+    position: absolute !important;
+    right: 13% !important;
+}

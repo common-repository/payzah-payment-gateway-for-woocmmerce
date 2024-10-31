@@ -1,0 +1,11 @@
+/*Style for admin area*/
+.payzah-error{ display: none;color: red; }
+.request-form{ padding-top:30px;padding-left:10px;text-align:center;width:50%;margin-left: 307px;}
+.request-form input, textarea{ width: 102% !important; margin-bottom:12px; vertical-align: middle;  }
+.request-form input[type=radio]{ width: auto !important;margin:0px;margin-left: 10px;}
+.request-form input[type=submit]{ margin-top: 30px;}
+.info_detail img { vertical-align: middle; margin-right: 12px; margin-bottom: 12px;}
+.info_detail span { font-size: 18px; }
+#payzah-request-form label {float: left;}
+#loader{ width: 16px;margin-left: 10px;display: none;margin-top:10px;}
+p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-received { color: red;border-color: red;)
